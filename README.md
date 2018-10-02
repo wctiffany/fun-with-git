@@ -1,7 +1,12 @@
 # fun-with-git
 
+## Tiffany Wong
+
+
 Have fun with git :-)
 
 I will, thanks!
 
-![](corgi sample.jpg)
+[link](http://google.com)
+
+![corgi](corgi.jpg)
